@@ -12,15 +12,20 @@ https://en.wikipedia.org/wiki/ChatGPT
 The AI Iceberg: Understanding ChatGPT
 https://leonfurze.com/2023/05/18/the-ai-iceberg-understanding-chatgpt/
 
+Computational Philosophy 
+https://plato.stanford.edu/entries/computational-philosophy/#CompPhilExam
 
 
 ## Videos
 
-AI, Consciousness, Science, Art & Understanding - Joscha Bach
-https://youtu.be/noScrzeEh4o?si=P9ahrkm5ggUHuEsH
+Joscha: From Computation to Consciousness
+https://www.youtube.com/watch?v=lKQ0yaEJjok&t=217s
 
 Is Universe a computer? with Joscha Bach 
 https://youtu.be/UvtYTClRSes?si=XadNoM4jSLrn9SOf
+
+AI, Consciousness, Science, Art & Understanding - Joscha Bach
+https://youtu.be/noScrzeEh4o?si=P9ahrkm5ggUHuEsH
 
 майбутнє є агентним (англ) 
 https://youtu.be/ZYf9V2fSFwU?si=nkXcD_-MtFBBGFxo 
